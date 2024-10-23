@@ -1,0 +1,21 @@
+.primeiro {
+    background-image: url('../img/josh-durham-fantasy-interior-3.jpg');
+    height: 60dvh;
+}
+.shadow {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+.shadow h1 {
+    text-shadow: 0 0 10px rgb(0 0 0 / 100%);
+    text-align: center;
+}
+.segundo {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
