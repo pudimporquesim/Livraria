@@ -18,6 +18,7 @@ h1 {
 }
 p {
     color: #26140E;
+    font-size: 18px;
 }
 .pt2 {
     margin-top: 40px;
@@ -25,4 +26,37 @@ p {
 }
 .pt3 {
     background-color: #D9923B;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.pt3 h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.circulos {
+    text-align: center;
+}
+.pt3 h2 {
+    margin-top: 15px;
+}
+footer {
+    background-color: #26140E;
+    text-align: center;
+    padding: 10px;
+}
+footer p {
+    color: #F2E3B8;
+    margin: 0;
+}
+.pt2 button {
+    background-color: #3a2119;
+    border-color: #3a2119;
+}
+.pt2 button:hover {
+    background-color: #26140E;
+    border-color: #26140E;
+}
+.pt2 button a {
+    text-decoration: none;
+    color: #F2E3B8;
 }
